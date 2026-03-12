@@ -1,17 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# BatchFocus
 
-# Run and deploy your AI Studio app
+A batch image converter tool to convert JPEG images to WebP format.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/fe165d18-eec9-4210-8dc5-5e5769953cb8
+- Convert multiple JPEG images to WebP format
+- Batch processing support
+- Fast and efficient conversion
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
    `npm install`
