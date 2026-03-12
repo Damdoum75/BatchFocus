@@ -1,0 +1,5 @@
+{
+  "name": "JPEG to WebP Converter",
+  "description": "A high-quality image converter that transforms JPEG photos to WebP format while preserving dimensions and clarity.",
+  "requestFramePermissions": []
+}
