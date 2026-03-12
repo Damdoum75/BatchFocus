@@ -39,6 +39,14 @@ Les contributions sont les bienvenues !
 4. Pushez sur la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrez une Pull Request
 
+## ☕ Soutenir le projet
+
+Si cet outil vous est utile, vous pouvez soutenir le projet avec des USDC sur le réseau Arbitrum :
+
+| Réseau | Devise | Adresse du Wallet |
+| :--- | :--- | :--- |
+| Arbitrum One | USDC | `0x5241ECc26C653cd1ee484D94bB83413d21796190` |
+
 ## Run Locally
 
 **Prerequisites:** Node.js
